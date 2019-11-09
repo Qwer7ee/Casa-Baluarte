@@ -7,7 +7,7 @@
 header
 {
 	background-image: url(images/Background2.jpg), linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-	height: 100vh;
+	height: 650vh;
 	background-size: cover;
 	background-position: center;
 }
@@ -17,7 +17,7 @@ header
 	text-align: center;
 	list-style: none;
 	margin: auto;
-	width: 50%;
+	width: 60%;
 	padding: 100px;
 }
 
@@ -74,5 +74,32 @@ h1
 	text-align: center;
 	font-size: 40px;
 	margin-top: 1px;
-	margin-left: 400px;
+	margin-left: 150px;
+}
+
+#langka{
+	padding: 10px;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+#embutido{
+	padding: 10px;
+	color: #fff;
+	color:white;
+	font-size: 20px;
+	text-align: center;
+}
+#paksiw{
+	padding: 10px;
+	color: #fff;
+	color:white;
+	font-size: 20px;
+	text-align: center;
+}
+footer{
+	padding: 50px;
+	color: white;
+	background-color: #35424a;
+	text-align: center;
 }
